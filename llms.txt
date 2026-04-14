@@ -5,11 +5,12 @@
 stlouisbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- St. Louis Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://stlouisbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in St. Louis: Red Flags and What to Watch For: https://stlouisbankruptcymill.com/chapter-13-st-louis.html
 - Chapter 7 Bankruptcy in St. Louis: Costs, Timeline and What to Know: https://stlouisbankruptcymill.com/chapter-7-st-louis.html
 - How to Check Your St. Louis Bankruptcy Attorney's Track Record: https://stlouisbankruptcymill.com/how-to-check.html
+- St. Louis Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://stlouisbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in St. Louis: https://stlouisbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://stlouisbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
