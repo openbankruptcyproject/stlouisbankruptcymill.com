@@ -107,7 +107,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 ♥ Sponsor
 
@@ -165,7 +165,7 @@ openbankruptcyproject.org
 GitHub
 
 This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms
 
@@ -296,7 +296,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 ♥ Sponsor
 
@@ -354,7 +354,7 @@ openbankruptcyproject.org
 GitHub
 
 This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms
 
@@ -477,7 +477,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 ♥ Sponsor
 
@@ -537,7 +537,7 @@ openbankruptcyproject.org
 GitHub
 
 This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms
 
@@ -664,7 +664,7 @@ Legal Services of Eastern Missouri provides free legal assistance to qualifying 
 
 About This Site
 
-This site is an educational resource created by the Open Bankruptcy Project, a 501(c)(3) nonprofit organization (determination pending). All information is derived from public federal court records, including the FJC Integrated Database and PACER.
+This site is an educational resource created by the Open Bankruptcy Project, a 501(c)(3) nonprofit organization. All information is derived from public federal court records, including the FJC Integrated Database and PACER.
 
 This site does not identify individual attorneys by name. The purpose is to educate St. Louis area residents about the warning signs of mill practices and provide tools to make informed decisions about bankruptcy representation.
 
@@ -680,7 +680,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 ♥ Sponsor
 
@@ -836,7 +836,7 @@ openbankruptcyproject.org
 GitHub
 
 This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms
 
@@ -959,7 +959,7 @@ No spam. No marketing. Just data.
 
 Subscribe
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 ♥ Sponsor
 
@@ -1017,7 +1017,7 @@ openbankruptcyproject.org
 GitHub
 
 This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms
 
@@ -1079,7 +1079,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
