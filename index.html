@@ -287,7 +287,7 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
   </div>
 </nav>
 <div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
-  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - 161+ free domains, 115,000+ pages, $0 cost
+  Part of the <a href="https://openbankruptcyproject.org" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - <span data-obp-c="domains">180+</span> free domains, <span data-obp-c="pages">20,000+</span> pages, $0 hosting
 </div>
 
 <div class="hero">
@@ -642,5 +642,6 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
 
 <script src="/btn-engage.js" defer></script>
 <script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+<script data-obp-counter-loader>(function(){var urls=["/data/counters.json","https://1328f.com/data/counters.json"];function tryNext(i){if(i>=urls.length)return;fetch(urls[i]).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){document.querySelectorAll("[data-obp-c]").forEach(function(e){var v=d[e.getAttribute("data-obp-c")];if(v)e.textContent=v})}).catch(function(){tryNext(i+1)})}tryNext(0)})();</script>
 </body>
 </html>
